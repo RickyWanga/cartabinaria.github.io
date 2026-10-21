@@ -1,7 +1,7 @@
 ---
 title: 'Erasmus+ Studio'
 summary: "Studiare all'estero con il programma Erasmus+ dell'Università di Bologna."
-date: '2024-01-25T12:43:52+01:00'
+date: '2026-10-21T16:41:00+02:00'
 weight: 15
 ---
 
