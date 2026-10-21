@@ -6,7 +6,7 @@ weight: 40
 ---
 
 ### [Erasmus+ Studio](https://www.unibo.it/it/internazionale/studiare-all-estero/erasmus)
-_Il programma Erasmus+ ti permette di trascorrere parte del tuo percorso universitario, da due a dodici mesi, in un altro paese europeo. Con lo "status di studente Erasmus+" potrai frequentare i corsi, sostenere gli esami e ottenerne il riconoscimento._ In alcuni casi è anche possibile svolgere tirocini.
+Consulta la [sezione dedicata a Erasmus+ Studio]({{< relref "opportunities/erasmus/_index.md" >}}).
 
 ### [Erasmus+ Mobilità per tirocinio](https://www.unibo.it/it/internazionale/tirocini-estero/erasmus-mobilita-per-tirocinio/erasmus-mobilita-tirocinio-come-partecipare)
 _Erasmus+ Mobilità per tirocinio è un programma di mobilità studentesca promosso dall’Unione Europea che dà la possibilità agli studenti di arricchire il proprio curriculum formativo e professionale attraverso un’esperienza lavorativa all’estero, presso aziende pubbliche o private in uno dei Paesi Europei partecipanti al Programma._

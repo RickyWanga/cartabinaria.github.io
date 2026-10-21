@@ -6,7 +6,7 @@ weight: 40
 ---
 
 ### [Erasmus+ Study](https://www.unibo.it/en/study/international-experiences/Studying-abroad/General-information-on-Erasmus/General-information-on-Erasmus)
-_TThe Erasmus+ Programme offers you the chance to spend from two to twelve months of your university career studying in another European country. As an Erasmus+ student, you can attend courses, sit exams and earn credits for your studies._ In some cases, internships are also possible.
+See the [dedicated Erasmus+ Study section]({{< relref "opportunities/erasmus/_index.md" >}}).
 
 ### [Erasmus+ Internship Mobility](https://www.unibo.it/en/international/internship-abroad/erasmus-mobility-for-traineeship/erasmus-mobility-for-traineeships-what-is-it-and-how-to-apply/erasmus-mobility-for-traineeships-what-is-it-and-how-to-apply)
 _Erasmus+ Mobility for traineeships is the EU-promoted student mobility programme which gives students a chance to broaden their vocational and training curriculum by working abroad in any public sector company or a private commercial enterprise located in European countries that have joined the Erasmus+ Programme._
